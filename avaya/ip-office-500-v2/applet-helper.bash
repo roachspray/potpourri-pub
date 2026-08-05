@@ -25,6 +25,9 @@
 #
 # Removal:
 #   rm -rf ~/.local/opt/zulu8-avaya ~/Library/Caches/avaya-ssa
+#
+# ...credits to some poor soul who chatgpt used to generate this script from
+# their work...
 
 
 set -euo pipefail
